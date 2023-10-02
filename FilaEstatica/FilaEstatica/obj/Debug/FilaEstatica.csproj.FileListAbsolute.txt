@@ -1,0 +1,16 @@
+C:\Users\Pc_Prof_Lab1\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+C:\Users\Pc_Prof_Lab1\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe
+C:\Users\Pc_Prof_Lab1\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.pdb
+C:\Users\Pc_Prof_Lab1\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csproj.AssemblyReference.cache
+C:\Users\Pc_Prof_Lab1\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc_Prof_Lab1\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Prof_Lab1\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+C:\Users\Pc_Prof_Lab1\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
+C:\Users\Victor Soles\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+C:\Users\Victor Soles\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe
+C:\Users\Victor Soles\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.pdb
+C:\Users\Victor Soles\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csproj.AssemblyReference.cache
+C:\Users\Victor Soles\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor Soles\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Victor Soles\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+C:\Users\Victor Soles\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb

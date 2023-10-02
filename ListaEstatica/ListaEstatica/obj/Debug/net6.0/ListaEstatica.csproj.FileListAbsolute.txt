@@ -1,0 +1,45 @@
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.exe
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.deps.json
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.runtimeconfig.json
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.dll
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.pdb
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.csproj.AssemblyReference.cache
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.AssemblyInfoInputs.cache
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.AssemblyInfo.cs
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.dll
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\refint\ListaEstatica.dll
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.pdb
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.genruntimeconfig.cache
+C:\Users\Pc_Prof_Lab1\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ref\ListaEstatica.dll
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.csproj.AssemblyReference.cache
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.AssemblyInfoInputs.cache
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.AssemblyInfo.cs
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.dll
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\refint\ListaEstatica.dll
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.pdb
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.exe
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.deps.json
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.runtimeconfig.json
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.dll
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.pdb
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.genruntimeconfig.cache
+C:\Users\Pc_Prof_Lab1\Downloads\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ref\ListaEstatica.dll
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.exe
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.deps.json
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.runtimeconfig.json
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.dll
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\bin\Debug\net6.0\ListaEstatica.pdb
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.csproj.AssemblyReference.cache
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.AssemblyInfoInputs.cache
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.AssemblyInfo.cs
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.dll
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\refint\ListaEstatica.dll
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.pdb
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ListaEstatica.genruntimeconfig.cache
+C:\Users\Victor Soles\Desktop\ListaEstatica\ListaEstatica\obj\Debug\net6.0\ref\ListaEstatica.dll

@@ -1,0 +1,6 @@
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.pdb
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csprojResolveAssemblyReference.cache
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.pdb

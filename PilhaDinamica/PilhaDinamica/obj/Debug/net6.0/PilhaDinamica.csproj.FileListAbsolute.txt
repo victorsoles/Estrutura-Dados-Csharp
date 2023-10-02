@@ -1,0 +1,15 @@
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\bin\Debug\net6.0\PilhaDinamica.exe
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\bin\Debug\net6.0\PilhaDinamica.deps.json
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\bin\Debug\net6.0\PilhaDinamica.runtimeconfig.json
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\bin\Debug\net6.0\PilhaDinamica.dll
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\bin\Debug\net6.0\PilhaDinamica.pdb
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\PilhaDinamica.csproj.AssemblyReference.cache
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\PilhaDinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\PilhaDinamica.AssemblyInfoInputs.cache
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\PilhaDinamica.AssemblyInfo.cs
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\PilhaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\PilhaDinamica.dll
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\refint\PilhaDinamica.dll
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\PilhaDinamica.pdb
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\PilhaDinamica.genruntimeconfig.cache
+C:\Users\Pc_Prof_Lab1\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\net6.0\ref\PilhaDinamica.dll
